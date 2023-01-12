@@ -2,5 +2,5 @@
 build-by-default: true
 branches:
 - 4.0.0
-projects: Trampoline PMP4
+projects: [Trampoline PMP4]
 ...
